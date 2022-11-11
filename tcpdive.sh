@@ -2,10 +2,7 @@
 
 # Name:
 # tcpdive - A TCP performance profiling tool.
-#
-# Description:
-# Tcpdive is designed to provide an insight into TCP's performance. 
-# It uses systemtap to collect data from a running linux kernel.
+
 
 VERSION="1.0"
 DATE="2016-1-1"
